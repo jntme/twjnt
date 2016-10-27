@@ -15,5 +15,5 @@ print("\n\nAuthentication")
 print("--------------\n")
 
 print("Copy the following link to get the permission for your app: ")
-
-
+print(auth.get_authorization_url())
+print("After that, copy your PIN in here: "),
