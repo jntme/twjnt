@@ -1,6 +1,9 @@
 #never save consumer_data to git
 twjnt/consumer_data.py
 
+#do not save pickled user credentials
+twjnt/data.pickle
+
 
 .idea/
 *.pyc
