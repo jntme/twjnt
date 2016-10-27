@@ -1,2 +1,9 @@
+#never save consumer_data to git
+twjnt/consumer_data.py
+
+
 .idea/
 *.pyc
+
+bin/
+twjnt/__pycache__/
